@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+audio rec
+scripts*
+monitora-pranzo-2026-10-19.json
+monitora-pranzo-da-audio.json
